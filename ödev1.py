@@ -1,7 +1,7 @@
 def adamBasiCiroHesapla():
     a=int(input("satış miktarını giriniz:"))
     b=int(input("birim satış fiyatını giriniz:"))
-    c=int(input("toplam çalışan sayısını giriniz:"))
+    c=int(25)
     adamBasiCiro=(a*b)/c
     print("adam başı ciro:",adamBasiCiro)
 
